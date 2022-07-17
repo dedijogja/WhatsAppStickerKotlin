@@ -5,4 +5,5 @@ WstickerApps menggunakan kotlin dan rest API, ini merupakan project pertama saya
 -Kotlin coroutines<br>
 -Retrofit<br>
 -Android Jetpack ViewBinding<br>
+-Android Jetpack Lifecycle ViewModel<br>
 -Rest API
