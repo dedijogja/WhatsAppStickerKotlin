@@ -1,4 +1,9 @@
 package com.dedijogja.whatsappstickerkotlin.model
 
-class StickerModel {
-}
+data class StickerModel(
+    val imageFile : String,
+    val emojis : List<String>,
+)
+
+
+

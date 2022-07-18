@@ -3,7 +3,10 @@ WstickerApps menggunakan kotlin dan rest API, ini merupakan project pertama saya
 
 # Teknologi yang digunakan
 -Kotlin coroutines<br>
--Retrofit<br>
+-Volley networking lib<br>
 -Android Jetpack ViewBinding<br>
 -Android Jetpack Lifecycle ViewModel<br>
+-Android Jetpack Dependency Injection Hilt<br>
+-SOLID pattern
+-MVVM (Model View View Model) pattern
 -Rest API

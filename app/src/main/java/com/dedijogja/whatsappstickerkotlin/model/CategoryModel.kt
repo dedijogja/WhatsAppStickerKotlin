@@ -1,4 +1,7 @@
 package com.dedijogja.whatsappstickerkotlin.model
-
-class CategoryModel {
-}
+data class CategoryModel(
+    val categoryId : String,
+    val categoryName : String,
+    val categoryColor : String,
+    val categoryImage : String
+    )
