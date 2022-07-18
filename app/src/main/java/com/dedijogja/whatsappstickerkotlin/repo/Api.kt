@@ -4,7 +4,7 @@ import android.content.Context
 import com.android.volley.Request
 import com.android.volley.toolbox.StringRequest
 
-class Api {
+object Api {
 
     fun fetchData(url : String, context: Context, apiListener: ApiListener){
         Requests.getRequest(context).add(StringRequest(Request.Method.GET, url, { response ->

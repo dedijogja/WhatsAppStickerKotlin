@@ -1,8 +1,13 @@
 package com.dedijogja.whatsappstickerkotlin.model
 
+import com.google.gson.annotations.SerializedName
+
 data class StickerModel(
-    val imageFile : String,
-    val emojis : List<String>,
+    @SerializedName("image_file")
+    val imageFile: String,
+    @SerializedName("emojis")
+    val emojis: List<String>,
+    var size: Int = 0
 )
 
 
