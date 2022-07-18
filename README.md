@@ -1,5 +1,5 @@
 # WhatsAppStickerKotlin
-ini merupakan project pertama saya dengan kotlin
+ini merupakan project pertama saya dengan kotlin, project ini masih dalam tahap pengembangan dan akan saya selesaikan secara bertahap
 
 # Teknologi yang digunakan
 -Kotlin coroutines<br>
